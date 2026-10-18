@@ -1,0 +1,7 @@
+[
+    {"id": 1, "date": "2026-10-01", "description": "Swiggy order",        "category": "food",      "amount": 450.0},
+    {"id": 2, "date": "2026-10-02", "description": "Metro card recharge", "category": "transport", "amount": 500.0},
+    {"id": 3, "date": "2026-10-03", "description": "Grocery - BigBasket", "category": "food",      "amount": 1820.5},
+    {"id": 4, "date": "2026-10-05", "description": "Electricity bill",    "category": "bills",     "amount": 1340.0},
+    {"id": 5, "date": "2026-10-06", "description": "Uber to office",      "category": "transport", "amount": 286.0}
+]
