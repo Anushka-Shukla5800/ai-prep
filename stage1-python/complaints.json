@@ -1,0 +1,7 @@
+[
+    {"id": 1, "category": "billing",  "amount": 1200.0,  "text": "I was charged twice for the same card payment."},
+    {"id": 2, "category": "fraud",    "amount": 75000.0, "text": "There is an unauthorised transfer from my account."},
+    {"id": 3, "category": "service",  "amount": 0.0,     "text": "Nobody answered my call for two days."},
+    {"id": 4, "category": "billing",  "amount": 450.0,   "text": "The late fee was added although I paid on time."},
+    {"id": 5, "category": "cards",    "amount": 8900.0,  "text": "My new card never arrived."}
+  ]
